@@ -1,0 +1,155 @@
+body {
+	background-color : #D4D4D4;
+	
+}
+
+.frame {
+	margin : 7px 10px 7px 10px;
+	background-color : #f8f9fa;
+}
+
+header.frame .container-fluid {
+	background-color : #c6c7c8;
+}
+
+header.frame .containerHeader2 {
+	background-color : #c6c7c8;
+	margin:8px 0px 8px 0px;
+	
+}
+
+header.frame .navbar-brand {
+	color : black;
+	font-size : 30px;
+	
+}
+
+
+header.frame .nav-link {
+	color : black;
+	font-size : 18px;
+	
+}
+
+header.frame .my_h3_header2 {
+	padding : 10px 10px 10px 10px;
+}
+
+
+section.frame .my_h3 {
+	margin : 7px 0px 7px 0px;
+	
+}
+
+section.frame .my_p {
+	margin : 7px 0px 10px 0px;
+	font-size : 20px;
+}
+
+section.frame img {
+	margin : 10px 0px 10px 0px;
+}
+
+section.frame .my_form {
+	margin : 7px 0px 7px 0px;
+}
+
+footer.frame ul {
+	
+	list-style-type: none;
+}
+
+footer.frame .my_a {
+	text-decoration:none;
+	margin : 0px 10px 0px 0px;
+	color : black;
+	font-size : 17px;
+}
+
+footer.frame .btn-odjava {
+	margin : 0px 0px 8px 0px;
+}
+
+.btn-dodaj {
+	margin : 0px 10px 8px 0px;
+}
+
+.btn-daNe {
+	margin : 10px 10px 0px 0px;
+}
+
+.tbodyDiv {
+	
+	margin : 10px 0px 10px 0px;
+}
+
+.my_p_2 {
+	margin : 7px 0px 10px 0px;
+}
+
+.p_show_amount {
+	padding : 5px 0px 5px 0px;
+	font-size : 17px;
+	
+}
+
+.my_p_dohodek {
+	color : green;
+	font-size : 17px;
+	padding : 0px 0px 0px 0px;
+	margin : 0px 0px 0px 0px;
+}
+
+.my_p_odohodek {
+	color : red;
+	font-size : 17px;
+	padding : 0px 0px 0px 0px;
+	margin : 0px 0px 0px 0px;
+}
+
+.my_label {
+	margin : 0px 0px 13px 0px;
+	font-weight : bold;
+}
+
+.my_radio_label {
+	margin : 0px 20px 0px 0px;
+}
+
+.btn-seznam {
+	margin : 5px 5px 5px 5px;
+}
+
+.tbodyDiv{
+	
+	max-height: 600px;
+	overflow-x: auto;
+	overflow-y: auto;
+}
+
+.tbodyDiv thead {
+	
+	background-color : #c6c7c8;
+	
+}
+
+.btn-js {
+	margin : 10px 10px 10px 0px;
+}
+
+.label2 {
+	margin : 10px 0px 10px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
